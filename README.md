@@ -1,0 +1,2 @@
+# Strict-psd
+web related
